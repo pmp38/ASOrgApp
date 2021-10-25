@@ -5,8 +5,9 @@ export const Services = (props) => {
         <div className='section-title'>
           <h2>Our Services</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            - Hình thức: Online
+            - Đối tượng tham gia: các bạn trẻ 20 tuổi ={">"} 32 tuổi mong muốn phát triển sự tự tin, kỹ năng giao tiếp, thuyết trình trước đám đông,  phát triển tư duy lãnh đạo sáng tạo. 
+            - Ưu tiên các bạn có quê quán hoặc học tập, sinh sống và làm việc tại Hà Nội
           </p>
         </div>
         <div className='row'>

@@ -4,17 +4,17 @@
     "paragraph": "People love a good story. But more importantly, people buy from a good story. The best brands are built on great stories.That's why storytelling is the best way to strengthen your brand."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Tổ chức APESH ( ( Asian Pacific Endowment for Science and Human) tài trợ phát triển nguồn nhân lực trẻ cho các nước đang phát triển trong khu vực Châu Á Thái Bình Dương nhằm nghiên cứu và đánh giá tiềm năng phát triển nguồn nhân lực. Là bước đầu nghiên cứu dự án 'Xây dựng tư duy lãnh đạo, làm chủ thời đại mới'.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
+      "Là sân chơi khám phá tiềm năng của bản thân",
+      "Cơ hội để trải nghiệm trainee management",
+      "Trải nghiệm định nghĩa thực sự The Leader là gì?",
       "Incididunt ut labore"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
+      "Nhận feedback định hình  giá trị bản thân",
+      "Kiểm tra tiềm năng, tài năng",
+      "Đánh giá khả năng có thể phát triển",
       "Lorem ipsum dolor"
     ]
   },
@@ -162,22 +162,22 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
+      "title": " B1 inbox",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
+      "title": "B2 TM tư vấn",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
+      "title": "B3 Tư  vấn cùng mentor",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
+      "title": "B4  Nếu phù hợp -> dẫn lớp",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     }
   ]

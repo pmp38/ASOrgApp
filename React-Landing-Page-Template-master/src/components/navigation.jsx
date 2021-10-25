@@ -16,7 +16,7 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
-            Asia Pacific International
+          Asian Pacific Endowment for Science and Human
           </a>{' '}
         </div>
 
