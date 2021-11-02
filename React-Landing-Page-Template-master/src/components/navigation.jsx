@@ -15,10 +15,9 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
           </button>
-          <span class="material-icons-two-tone">
-   public
-  </span>
+          <span class="material-icons-two-tone"></span>
           <a className='navbar-brand page-scroll' href='#page-top'>
+          <i className={"fa fa-language"}></i>
           APESH
           </a>{' '}
         </div>
