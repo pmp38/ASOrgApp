@@ -208,7 +208,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/intro-bg.jpg) center center no-repeat;
+  background: url(../img/dave.jpg) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -603,4 +603,8 @@ label {
   #about img {
     margin: 50px 0;
   }
+}
+.icon-Header {
+  background: url(../img/Asia-pacific2.png);
+  /* Other styles here */
 }

@@ -162,23 +162,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": " B1 inbox",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Inbox",
+      "text": "To send someone a private message on social media."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "B2 TM tư vấn",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Remote consultation",
+      "text": "An experienced and trusted person who gives another person advice and help, esp. related to work or school, over a period of time"
     },
     {
       "icon": "fa fa-group",
-      "title": "B3 Tư  vấn cùng mentor",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Mentor consulting",
+      "text": "A person with experience in a job who supports and advises someone with less experience to help them develop in their work."
     },
     {
       "icon": "fa fa-magic",
-      "title": "B4  Nếu phù hợp -> dẫn lớp",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "A new lease of life",
+      "text": "You will become more energetic and active and happiness than before."
     }
   ]
 }
