@@ -150,9 +150,10 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2020 Issaaf Kattan React Land Page Template. Design by{' '}
-            <a href='http://www.templatewire.com' rel='nofollow'>
-              TemplateWire
+            &copy; Copyright (c) 2021 APESH, Inc. All right reserved. <br/>
+            This software is the confidential and proprietary information of {' '}
+            <a href='#page-top' rel='nofollow'>
+              APESH, Inc
             </a>
           </p>
         </div>
