@@ -605,6 +605,11 @@ label {
   }
 }
 .icon-Header {
-  background: url(../img/Asia-pacific2.png);
+  background: url(../img/png-clipart.png) center center no-repeat;
+  background-color: #e5e5e5;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
   /* Other styles here */
 }

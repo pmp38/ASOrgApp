@@ -16,3 +16,19 @@
     width: 110%;
   }
 }
+.App,
+.App * {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+  width: 100%;
+  max-width: 780px;
+  margin: auto;
+  padding: 15px;
+  color: #222;
+  font-family: Helvetica, Arial, sans-serif;
+}
