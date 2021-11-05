@@ -612,4 +612,11 @@ label {
   background-size: cover;
   -o-background-size: cover;
   /* Other styles here */
+}.myImage {
+  width: 90px;
+  height: 50px;
+  background-image: url("../img/logo2.jpg");
+  background-repeat: no-repeat;
+  background-size: 80%;
+  padding-bottom: 50px;
 }

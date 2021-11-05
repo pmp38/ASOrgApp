@@ -15,14 +15,10 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
           </button>
-          <span class="material-icons-two-tone"></span>
-          <a className='navbar-brand page-scroll' href='#page-top'>
-          <i className={"fa fa-language"}></i>
-          APESH
-          <em class="icon-Header"></em>
-          </a>{' '}
+          <a className='page-scroll' href='#page-top'>
+          <div className="myImage"> </div>
+          </a>
         </div>
-
         <div
           className='collapse navbar-collapse'
           id='bs-example-navbar-collapse-1'
