@@ -18,81 +18,81 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Capacity development programme on air quality management and emission reduction of PM2.5 for ASEAN countries",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Enhancing local capacity for implementing transboundary revitalization policies for the Citarum River",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "As one of the sponsoring organisations of the DIVERSITAS (International Programme of Biodiversity Science) Second Open Science Conference (OSC2), APESH is very pleased that the Conference convened successfully in Cape Town, South Africa on 13-16 October 2009. On behalf of the APESH, Dr. Linda Anne Stevenson, Scientific Officer participated at the OSC2 and below narrative provides highlights of the Conference and APESH’s active participation.",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Connecting women-led local realities with the global discourse on climate adaptation and DRR: Interrogating women’s lived experiences in Cambodia and Vanuatu",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "APESH Collaborates with START for Closer Science-Policy Links in Southeast Asia",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Particulate matter source apportionment in Malaysia using source tagging modeling approach to quantify transboundary air pollution: a comparative analysis between haze and non-haze periods",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Case study of climate adaptation and disaster risk reduction projects across sectors in Asia-Pacific (2015–2020)",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Development of adaptation communication framework mainstreaming indigenous and local knowledge for Hindu-Kush Himalayan regions",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Optimizing climate change adaptation through enhanced community resilience",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cloud-download",
+      "name": "Climate",
+      "text": "The drastic effects of climate change and climate variability pose a significant threat to humanity. We promote regional efforts that contribute to coordinated global climate actions for a sustainable future."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Biodiversity and ecosystems",
+      "text": "A rich biodiversity and healthy ecosystems ensure that nature continues to provide food and water, regulate climate, and protect societies from extreme weather events."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Air, land, coasts and oceans",
+      "text": "Interactions among the land, air, coasts and oceans, whether caused by natural or human factors at different timescales, have profound implications on global environmental change and implications for sustainability."
+    },
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Food, water and energy",
+      "text": "Ensuring the security and sustainability of food, water and energy, which are interconnected and interdependent in many ways, requires a transdisciplinary approach engaging actors in different sectors."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Risk and resilience",
+      "text": "We encourage countries to work together in deepening our understanding of disaster risks, strengthening capacity to manage those risks, and enhancing preparedness and resilience."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Human dimensions",
+      "text": "Human activities affect and are affected by the Earth's environment. Achieving our vision requires research and capacity development approaches that harness the latest development of social and natural sciences."
     }
   ],
   "Testimonials": [
@@ -130,29 +130,28 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Regional research",
+      "job": "Through the competitive Collaborative Regional Research Programme (CRRP), we promote regional research that has potential to improve our understanding of global change and its implications while contributing to a sound scientific basis for policymaking in areas affected by global change."
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Capacity development",
+      "job": "Capable, our scientific capacity development programme, aims to enhance the capacity of scientists, policymakers and practitioners to assess global change issues, and explore options to resolve issues towards achieving sustainability. Through Capable, we support activities that enhance capacity at individual, organizational and systemic levels."
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Science-policy linkages",
+      "job": "One of our goals is to strengthen interactions among scientists and policymakers. To this end, we work with governments, project teams and international partner organizations to develop policy-relevant knowledge products and create empowering environments conducive to enhancing science-policy interactions."
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Vision",
+      "job": "To advance research in all sectors of Social Sciences. To promote publishing of high quality theoretical and empirical research manuscripts. To develop global networks among academicians, researchers and professionals for interaction and mutual cooperation"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "10 Eunos Rd 8, Singapore 408600",
+    "email": "support@apesh.asia",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
